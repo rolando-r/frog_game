@@ -25,6 +25,9 @@ Este es un juego de una rana que salta sobre hojas e intenta escapar de sus enem
     ```bash
    python main.py
 
+Si no tienes instalado PIP, revisa la documentación oficial para instalarlo:
+https://pip.pypa.io/en/stable/installation/
+
 ## Controles 🎮
 - `Enter`: Seleccionar (Menú).
 - `Espacio`: Hacer que la rana salte.
